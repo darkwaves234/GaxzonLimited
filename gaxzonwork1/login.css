@@ -15,7 +15,7 @@
 
 body {
     min-height: 100vh;
-    background: linear-gradient(45deg, #3498db, #e74c3c, #9b59b6, #2ecc71);
+    background: linear-gradient(45deg, #dbd034, #e74c3c, hsla(184, 100%, 50%, 0.651), #2ecc71);
     background-size: 400% 400%;
     animation: gradientAnimation 15s ease infinite;
     display: flex;
@@ -34,7 +34,7 @@ body {
 
 .Wrapper {
     width: 420px;
-    background: rgba(240, 6, 135, 0.116);
+    background: rgba(240, 6, 135, 0.075);
     color: #000000c2;
     text-align: center;
     padding: 30px 40px;
